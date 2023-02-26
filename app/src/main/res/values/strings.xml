@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My family</string>
+    <string name="sos">SOS</string>
+    <string name="i_case_of_emergency_call_your_people_you_want_and_this_for_that_only_have_a_good_day">i case of emergency call your people you want and this for that only have a good day</string>
+    <string name="profile">Profile</string>
+    <string name="gaurd">Gaurd</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="setting">setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_family">My Family</string>
+</resources>
